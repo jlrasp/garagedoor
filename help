@@ -12,3 +12,4 @@ python3 ./james-relay-control-garage.py
 4. Open AWS Alexa console
 Alexa Console >Skills> open garage skill>
 Update endpoint with new ngrok url >save endpoint
+>Build skill>test skill
