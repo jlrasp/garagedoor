@@ -1,0 +1,14 @@
+1. Open port for ngrok
+type:
+./ngrok http 5000
+
+2. Start Python Script
+type:
+python3 ./james-relay-control-garage.py
+
+3. Copy https: URL from ngrok
+ (example:  https://7d865d7b.ngrok.io)
+ 
+4. Open AWS Alexa console
+Alexa Console >Skills> open garage skill>
+Update endpoint with new ngrok url >save endpoint
