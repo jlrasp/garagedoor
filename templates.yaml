@@ -1,0 +1,9 @@
+welcome_text: Welcome to the Garage Door skill. You can say, tell garage door to Open, or, tell garage door to close, or, tell garage door to take a picture
+
+command: Garage door is {{OpenCloseCommand}}
+
+command_reprompt: Do you want to open or close your garage door
+
+command3: Took a photo and uploading to your dropbox app folder
+
+command3_reprompt: Do you want to take a photo
